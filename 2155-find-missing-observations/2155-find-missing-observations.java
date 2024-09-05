@@ -9,9 +9,11 @@ class Solution {
         int avg=sum/n;
         int rem=sum%n;
         int ans[]=new int[n];
-        for(int i=0;i<n;i++){
+        for(int i=0;i<rem;i++){
+            ans[i]=avg+1;
+        }
+        for(int i=rem;i<n;i++){
             ans[i]=avg;
-            if(rem>0) {ans[i]++; rem--;}
         }
         return ans;
     }

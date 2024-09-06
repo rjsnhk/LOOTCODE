@@ -10,27 +10,37 @@
  */
 class Solution {
     public ListNode modifiedList(int[] nums, ListNode head) {
-        if(head==null||nums.length==0) return head;
-HashSet hs=new HashSet<>();
-for(int i:nums){
-    hs.add(i);
-}
+    //    int max=0;
+    //    for(int i:nums){
+    //     max=Math.max(max,i);
+    //    }
+       boolean ar[]=new boolean[(int)1e5+1];
 
-ListNode temp=new ListNode(0);
-temp.next=head;
 
-ListNode curr=temp.next;
-ListNode prev=temp;
-while(curr!=null){
-if(hs.contains(curr.val)){
-    prev.next=curr.next;
-    curr=prev.next;
-}else{
-prev=curr;
-curr=curr.next;
-}
-}
-return temp.next;
+       for(int i:nums){
+        ar[i]=true;
+       }
+       ListNode curr=head;
+       ListNode prev=null;
+       while(curr!=null){
+        if(ar[curr.val]){
+            if(prev==null){
+                head=head.next;
+                curr.next=null;
+                curr=head;
+                
+            }else{
+                prev.next=curr.next;
+                curr.next=null;
+                curr=prev.next;
+
+            }
+        }else{
+            prev=curr;
+            curr=curr.next;
+        }
+       }
+       return head;
         
     }
 }

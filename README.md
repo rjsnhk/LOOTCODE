@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rjsnhk/LOOTCODE/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/rjsnhk/LOOTCODE/tree/master/0054-spiral-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rjsnhk/LOOTCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/rjsnhk/LOOTCODE/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/rjsnhk/LOOTCODE/tree/master/2411-spiral-matrix-iv) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rjsnhk/LOOTCODE/tree/master/0054-spiral-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rjsnhk/LOOTCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/rjsnhk/LOOTCODE/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/rjsnhk/LOOTCODE/tree/master/2411-spiral-matrix-iv) |
@@ -79,5 +81,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rjsnhk/LOOTCODE/tree/master/0054-spiral-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/rjsnhk/LOOTCODE/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->

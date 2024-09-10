@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rjsnhk/LOOTCODE/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/rjsnhk/LOOTCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0054-spiral-matrix](https://github.com/rjsnhk/LOOTCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0059-spiral-matrix-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rjsnhk/LOOTCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rjsnhk/LOOTCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rjsnhk/LOOTCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rjsnhk/LOOTCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rjsnhk/LOOTCODE/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

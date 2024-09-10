@@ -22,9 +22,12 @@ class Solution {
         if(head==null||head.next==null) return head;
         ListNode curr=head;
         ListNode currNext=head.next;
-        
+
 while(currNext!=null){
-ListNode ll=new ListNode(gcd(curr.val,currNext.val),currNext);
+// ListNode ll=new ListNode(gcd(curr.val,currNext.val),currNext);
+int num=gcd(curr.val,currNext.val);
+ListNode ll=new ListNode(num);
+ll.next=currNext;
 curr.next=ll;
 curr=currNext;
 currNext=currNext.next;

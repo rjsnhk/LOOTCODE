@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/rjsnhk/LOOTCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0054-spiral-matrix](https://github.com/rjsnhk/LOOTCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0059-spiral-matrix-ii) |
+| [0204-count-primes](https://github.com/rjsnhk/LOOTCODE/tree/master/0204-count-primes) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rjsnhk/LOOTCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/rjsnhk/LOOTCODE/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/rjsnhk/LOOTCODE/tree/master/2411-spiral-matrix-iv) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rjsnhk/LOOTCODE/tree/master/0204-count-primes) |
 | [0445-add-two-numbers-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0445-add-two-numbers-ii) |
 | [2155-find-missing-observations](https://github.com/rjsnhk/LOOTCODE/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rjsnhk/LOOTCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rjsnhk/LOOTCODE/tree/master/0204-count-primes) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rjsnhk/LOOTCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Divide and Conquer
 |  |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/rjsnhk/LOOTCODE/tree/master/0295-find-median-from-data-stream) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rjsnhk/LOOTCODE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

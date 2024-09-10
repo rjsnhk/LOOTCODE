@@ -10,14 +10,13 @@
  */
 class Solution {
     public int gcd(int a,int b){
-        int c=Math.min(a,b);
-        int res=-1;
-        for(int i=1;i<=c;i++){
-            if(a%i==0&&b%i==0){
-                res=i;
-            }
+        if(a==1||b==1) return 1;
+        while(b!=0){
+            int rem=a%b;
+            a=b;
+            b=rem;
         }
-        return res;
+        return a;
     }
     public ListNode insertGreatestCommonDivisors(ListNode head) {
         if(head==null||head.next==null) return head;

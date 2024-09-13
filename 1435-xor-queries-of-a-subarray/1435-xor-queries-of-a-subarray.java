@@ -1,5 +1,9 @@
 class Solution {
     public int[] xorQueries(int[] arr, int[][] queries) {
+
+//use  prefix sum concept on it by - rjsnhk
+
+
 int prefix[]=new int[arr.length];
 prefix[0]=arr[0];
 for(int i=1;i<arr.length;i++){

@@ -8,9 +8,11 @@ class Solution {
             max=Math.max(i,max);
         }
         for(int i=0;i<nums.length;i++){
-            if(nums[i]==max) l++;
-            else l=0;
+            if(nums[i]==max) {l++;
+            
             ans=Math.max(ans,l);
+            }
+            else l=0;
         }
         return ans;
     }

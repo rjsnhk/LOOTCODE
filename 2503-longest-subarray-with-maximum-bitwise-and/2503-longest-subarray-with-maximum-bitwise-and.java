@@ -8,7 +8,8 @@ class Solution {
             if(max<nums[i]) max=nums[i];
         }
         for(int i=0;i<n;i++){
-            if(nums[i]==max) {l++;
+            if(nums[i]==max) {l
+            ++;
             
             ans=Math.max(ans,l);
             }

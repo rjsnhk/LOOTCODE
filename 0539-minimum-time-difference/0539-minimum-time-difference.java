@@ -1,29 +1,25 @@
 class Solution {
-    public int toMinute(String a){
-        int h=Integer.parseInt(a.substring(0,2))*60;
-        int m=Integer.parseInt(a.substring(3));
-        return h+m;
-    }
-    public int findMinDifference(List<String> t) {
-        ArrayList<Integer> arr=new ArrayList<>();
-        for(String h:t){
-            arr.add(toMinute(h));
-        } 
-        Collections.sort(arr);
-        int min=arr.get(1)-arr.get(0);
-        int l=1,r=2;
-        while(r<arr.size()){
-            min=Math.min(min,arr.get(r)-arr.get(l));
-            l=r;
-            r++;
+    public int findMinDifference(List<String> timePoints) {
+        int l =  timePoints.size();
+        int [] minutes = new int[l];
+        for (int i =0;i< l;i++) {
+            minutes[i]=convertToMinutes(timePoints.get(i));
         }
-int last=1440-arr.get(arr.size()-1);
-int ad=last+arr.get(0);
-min=Math.min(ad,min);
-
-return min;
-
-
+        Arrays.sort(minutes);
+        int smallesttime = Integer.MAX_VALUE;
+        for(int i=1;i<minutes.length; i++){
+            int diff = minutes[i] - minutes[i - 1];
+            smallesttime= Math.min(smallesttime,diff);
+        }
+        // because time is actually circular so we need to check first ans last time also :
+        int circularDiff = (1440 - minutes[l - 1] + minutes[0]);
+        smallesttime = Math.min(smallesttime, circularDiff);
+        
+        return smallesttime;
     }
-
+     public int convertToMinutes(String time) {
+        int hours = (time.charAt(0) - '0') * 10 + (time.charAt(1) - '0');
+        int minutes = (time.charAt(3) - '0') * 10 + (time.charAt(4) - '0');
+        return hours * 60 + minutes;
+    }
 }

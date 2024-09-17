@@ -38,7 +38,10 @@ for(int i=0;i<ar2.length;i++){
         }
     }
 }
-String[] stringArray = arr.toArray(new String[0]);
-return stringArray;
+// String[] stringArray = arr.toArray(new String[0]);
+// return stringArray;
+
+return arr.toArray(new String[0]);
     }
 }
+//code by @rjsnhk

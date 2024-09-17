@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rjsnhk/LOOTCODE/tree/master/0001-two-sum) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/rjsnhk/LOOTCODE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rjsnhk/LOOTCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rjsnhk/LOOTCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
@@ -141,10 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/rjsnhk/LOOTCODE/tree/master/0539-minimum-time-difference) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/rjsnhk/LOOTCODE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rjsnhk/LOOTCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/rjsnhk/LOOTCODE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rjsnhk/LOOTCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Brainteaser
 |  |

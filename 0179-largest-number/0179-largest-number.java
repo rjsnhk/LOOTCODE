@@ -6,11 +6,13 @@ class Solution {
       }
       Arrays.sort(arr,(a,b)->(b+a).compareTo(a+b));
 
-      StringBuilder str=new StringBuilder();
+      StringBuilder sb=new StringBuilder();
       for(int i=0;i<nums.length;i++){
-        str.append(arr[i]);
+        sb.append(arr[i]);
       }
-      return str.charAt(0)=='0'? "0" : str.toString();
+      while (sb.charAt(0) == '0' && sb.length() > 1)
+            sb.deleteCharAt(0);
+        return sb.toString();
 
     }
 }

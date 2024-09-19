@@ -27,7 +27,7 @@ public List<Integer> diffWaysToCompute(String s){
         }
         
     }
-   if (res.size()==0) res.add(Integer.parseInt(s)); 
+   if (res.isEmpty()) res.add(Integer.parseInt(s)); 
    map.put(s,res);
    return res ; 
 }

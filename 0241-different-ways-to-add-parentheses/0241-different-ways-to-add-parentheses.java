@@ -1,5 +1,9 @@
 class Solution {
+    private HashMap<String,List<Integer>> map=new HashMap<>();
+
 public List<Integer> solve(String s){
+    
+    if(map.containsKey(s)) return map.get(s);
     List<Integer> res=new ArrayList<>();
     for(int i=0;i<s.length();i++){
         if(s.charAt(i)=='*'||s.charAt(i)=='+'||s.charAt(i)=='-'){
@@ -24,6 +28,7 @@ public List<Integer> solve(String s){
         
     }
    if (res.size()==0) res.add(Integer.parseInt(s)); 
+   map.put(s,res);
    return res ; 
 }
 

@@ -1,6 +1,5 @@
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
-        HashSet<Integer> hs=new HashSet<>();
         int a[]=arr.clone();
         HashMap<Integer,Integer> hm=new HashMap<>();
         Arrays.sort(a);

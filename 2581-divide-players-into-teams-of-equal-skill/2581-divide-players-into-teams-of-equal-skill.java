@@ -1,13 +1,13 @@
 class Solution {
     public long dividePlayers(int[] skill) {
         int n=skill.length;
-        long part=n/2;
-        long sum=0;
+        int part=n/2;
+        int sum=0;
         for(int i:skill){
             sum+=i;
         }
         if(sum%part!=0) return -1;
-        long target=sum/part;
+        int target=sum/part;
 
         Arrays.sort(skill);
         

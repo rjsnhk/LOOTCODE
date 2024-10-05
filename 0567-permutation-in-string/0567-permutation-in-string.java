@@ -1,20 +1,30 @@
 class Solution {
-    public String sorting(String a){
-        char ar[]=a.toCharArray();
-        Arrays.sort(ar);
-        return new String(ar);
-    }
-    public boolean checkInclusion(String s1, String s2) {
+   public boolean checkInclusion(String s1, String s2) {
         int l1=s1.length();
         int l2=s2.length();
         
-        String s11=sorting(s1);
+       if(l1>l2) return false;
 
-        for(int i=0;i<=l2-l1;i++){
-            String s22=sorting(s2.substring(i,i+l1));
+int s1_freq[]=new int[26];
+int s2_freq[]=new int[26];
 
-            if(s11.equals(s22)) return true;
-        }
-        return false;
+for(int i=0;i<s1.length();i++){
+    s1_freq[s1.charAt(i)-'a']++;
+}
+
+int i=0;
+int j=0;
+while(j<l2){
+    s2_freq[s2.charAt(j)-'a']++;
+
+    if(j-i+1>l1){
+       s2_freq[s2.charAt(i)-'a']--;
+       i++; 
+    }
+    if(Arrays.equals(s1_freq, s2_freq)) return true;
+    j++;
+}
+return false;
+
     }
 }

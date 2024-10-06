@@ -13,7 +13,7 @@ String ar2[]=s2.split(" ");
         int i=0,j=ar1.length-1;
         int k=0,l=ar2.length-1;
 
-        while(k<=l && i<=j){
+        while(k<=l ){
             if(ar2[k].equals(ar1[i])){
                 k++;
                 i++;

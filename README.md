@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rjsnhk/LOOTCODE/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rjsnhk/LOOTCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/rjsnhk/LOOTCODE/tree/master/0242-valid-anagram) |
 | [0432-all-oone-data-structure](https://github.com/rjsnhk/LOOTCODE/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rjsnhk/LOOTCODE/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rjsnhk/LOOTCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0179-largest-number](https://github.com/rjsnhk/LOOTCODE/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/rjsnhk/LOOTCODE/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rjsnhk/LOOTCODE/tree/master/0241-different-ways-to-add-parentheses) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rjsnhk/LOOTCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rjsnhk/LOOTCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rjsnhk/LOOTCODE/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->

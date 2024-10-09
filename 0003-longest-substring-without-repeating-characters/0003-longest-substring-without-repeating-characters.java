@@ -19,11 +19,11 @@ j++;
         }
         
 
-        ans=Math.max(ans,(j-i+1));
+        ans=Math.max(ans,(j-i));
         }
 
         
-        return ans-1;
+        return ans;
 
     }
 }

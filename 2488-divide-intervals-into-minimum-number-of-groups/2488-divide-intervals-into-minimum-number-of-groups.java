@@ -7,20 +7,13 @@ class Solution {
             int st=inter[0];
             int end=inter[1];
 
-            if(ar.isEmpty()){
-                ar.add(end);
-            }
-            else{
-                if(ar.peek()<st){
+            
+                if(!ar.isEmpty()&&ar.peek()<st){
                     ar.remove();
                     ar.add(end);
-                }else{
+                }else
                     ar.add(end);
-                }
-            }
-
-           
-        
+                
         }
         return ar.size();
     }

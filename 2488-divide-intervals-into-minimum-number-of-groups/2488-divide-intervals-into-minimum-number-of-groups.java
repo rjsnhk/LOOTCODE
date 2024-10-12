@@ -1,7 +1,7 @@
 class Solution {
     public int minGroups(int[][] intervals) {
         PriorityQueue<Integer> ar=new PriorityQueue<>();
-        Arrays.sort(intervals, Comparator.comparingInt(a->a[0]));
+        Arrays.sort(intervals,(a,b)->(a[0]==b[0])?a[1]-b[1]:a[0]-b[0]);
 
         for(int inter[]:intervals){
             int st=inter[0];

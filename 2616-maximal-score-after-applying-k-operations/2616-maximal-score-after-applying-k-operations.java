@@ -8,9 +8,9 @@ class Solution {
        }
        long ans=0;
        for(int i=0;i<k;i++){
-        double popp=pq.remove();
+        int popp=pq.remove();
             ans+=popp;
-            pq.add((int)(Math.ceil(popp/3)));
+            pq.add((popp+2)/3);
        }
 return ans;
 

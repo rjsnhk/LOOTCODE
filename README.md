@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/rjsnhk/LOOTCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0445-add-two-numbers-ii) |
 | [0539-minimum-time-difference](https://github.com/rjsnhk/LOOTCODE/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/rjsnhk/LOOTCODE/tree/master/0670-maximum-swap) |
 | [2155-find-missing-observations](https://github.com/rjsnhk/LOOTCODE/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rjsnhk/LOOTCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Linked List
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/rjsnhk/LOOTCODE/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rjsnhk/LOOTCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/rjsnhk/LOOTCODE/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rjsnhk/LOOTCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/rjsnhk/LOOTCODE/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rjsnhk/LOOTCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |

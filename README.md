@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/rjsnhk/LOOTCODE/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/rjsnhk/LOOTCODE/tree/master/0725-split-linked-list-in-parts) |
+| [0838-design-linked-list](https://github.com/rjsnhk/LOOTCODE/tree/master/0838-design-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/rjsnhk/LOOTCODE/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/rjsnhk/LOOTCODE/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rjsnhk/LOOTCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/rjsnhk/LOOTCODE/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/rjsnhk/LOOTCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0731-my-calendar-ii) |
+| [0838-design-linked-list](https://github.com/rjsnhk/LOOTCODE/tree/master/0838-design-linked-list) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/rjsnhk/LOOTCODE/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Sorting
 |  |

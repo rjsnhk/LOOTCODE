@@ -1,40 +1,43 @@
 class Solution {
-    public char solveOperator(HashSet<Character> arr, char op) {
-        if (op == '!') {
-            if (arr.contains('t')) return 'f';
+    public char solveOperator(HashSet<Character> arr,char op){
+        if(op=='!'){
+           if (arr.contains('t')) return 'f';
             else return 't';
-        } else if (op == '&') {
+        }
+        else if(op=='&'){
             if (arr.contains('f')) return 'f';
             else return 't';
-        } else { // case for '|'
+        }
+        else{
             if (arr.contains('t')) return 't';
             else return 'f';
         }
     }
-
     public boolean parseBoolExpr(String exp) {
-        Stack<Character> st = new Stack<Character>();
-        HashSet<Character> set = new HashSet<>();
-
-        for (int i = 0; i < exp.length(); i++) {
-            char ch = exp.charAt(i);
-            
-            if (ch != ',' && ch != ')') {
+        Stack<Character> st=new Stack<Character>();
+        HashSet<Character> set=new HashSet<>();
+        for(int i=0;i<exp.length();i++){
+            char ch=exp.charAt(i);
+            if(ch!=','&&ch!=')'){
                 st.push(ch);
-            } else if (ch == ')') {
-                set.clear(); // Initialize set here to avoid stale data issues
-                char aa = st.pop();
-                while (aa != '(') {
+            }
+            else if(ch==')'){
+                set.clear();
+                char aa=st.pop();
+                while(aa!='('){
                     set.add(aa);
-                    aa = st.pop();
+                    aa=st.pop();
                 }
-                char op = st.pop(); // Get the operator for this operation
-                char solve = solveOperator(set, op);
-                st.push(solve); // Push the result back onto the stack for further evaluation
+                char op=st.pop();
+                char solve=solveOperator(set,op);
+                
+                st.push(solve);
             }
         }
+        
+         return st.pop()=='t';
 
-        // Check the final value after all evaluations
-        return st.pop() == 't';
+ 
+
     }
 }

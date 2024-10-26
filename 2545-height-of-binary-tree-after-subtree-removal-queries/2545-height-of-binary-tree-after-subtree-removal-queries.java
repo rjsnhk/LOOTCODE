@@ -1,51 +1,33 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
-    private Map<TreeNode, Integer> d = new HashMap<>();
-    private int[] res;
+
+    static final int[] heights = new int[100001];
+    int maxHeight = 0;
 
     public int[] treeQueries(TreeNode root, int[] queries) {
-        f(root);
-        res = new int[d.size() + 1];
-        d.put(null, 0);
-        dfs(root, -1, 0);
-        int m = queries.length;
-        int[] ans = new int[m];
-        for (int i = 0; i < m; ++i) {
-            ans[i] = res[queries[i]];
+        getLeftHeights(root, 0);
+        maxHeight = 0;
+        getRightHeights(root, 0);
+
+        int n = queries.length;
+        int[] result = new int[n];
+        for (int i = n - 1; i >= 0; i--) {
+            result[i] = heights[queries[i]];
         }
-        return ans;
+
+        return result;
     }
 
-    private void dfs(TreeNode root, int depth, int rest) {
-        if (root == null) {
-            return;
-        }
-        ++depth;
-        res[root.val] = rest;
-        dfs(root.left, depth, Math.max(rest, depth + d.get(root.right)));
-        dfs(root.right, depth, Math.max(rest, depth + d.get(root.left)));
+    private void getLeftHeights(TreeNode node, int height) {
+        heights[node.val] = maxHeight;
+        maxHeight = Math.max(maxHeight, height);
+        if (node.left != null) getLeftHeights(node.left, height + 1);
+        if (node.right != null) getLeftHeights(node.right, height + 1);
     }
 
-    private int f(TreeNode root) {
-        if (root == null) {
-            return 0;
-        }
-        int l = f(root.left), r = f(root.right);
-        d.put(root, 1 + Math.max(l, r));
-        return d.get(root);
+    private void getRightHeights(TreeNode node, int height) {
+        heights[node.val] = Math.max(heights[node.val], maxHeight);
+        maxHeight = Math.max(height, maxHeight);
+        if (node.right != null) getRightHeights(node.right, height + 1);
+        if (node.left != null) getRightHeights(node.left, height + 1);
     }
 }

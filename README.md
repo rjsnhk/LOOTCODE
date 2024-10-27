@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0059-spiral-matrix-ii) |
 | [0179-largest-number](https://github.com/rjsnhk/LOOTCODE/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/rjsnhk/LOOTCODE/tree/master/0204-count-primes) |
+| [0221-maximal-square](https://github.com/rjsnhk/LOOTCODE/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/rjsnhk/LOOTCODE/tree/master/0239-sliding-window-maximum) |
 | [0539-minimum-time-difference](https://github.com/rjsnhk/LOOTCODE/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rjsnhk/LOOTCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/rjsnhk/LOOTCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0059-spiral-matrix-ii) |
+| [0221-maximal-square](https://github.com/rjsnhk/LOOTCODE/tree/master/0221-maximal-square) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rjsnhk/LOOTCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2411-spiral-matrix-iv](https://github.com/rjsnhk/LOOTCODE/tree/master/2411-spiral-matrix-iv) |
 ## Number Theory
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/rjsnhk/LOOTCODE/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rjsnhk/LOOTCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rjsnhk/LOOTCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/rjsnhk/LOOTCODE/tree/master/2755-extra-characters-in-a-string) |

@@ -1,22 +1,21 @@
 class Solution {
     public String compressedString(String w) {
-        String comp="";
+        StringBuilder comp=new StringBuilder();
         int n=w.length();
 int i=0;
 while(i<n){
-
         int count=0;
         char ch=w.charAt(i);
         while(i<n && count<9 && ch==w.charAt(i)){
             count++;
             i++;
         }
-        comp+=count;
-        comp+=ch;
+        comp.append(count);
+        comp.append(ch);
         
 }
 
 
-        return comp;
+        return comp.toString();
     }
 }

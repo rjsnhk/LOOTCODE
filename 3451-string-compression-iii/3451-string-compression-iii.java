@@ -1,5 +1,8 @@
 class Solution {
     public String compressedString(String w) {
+        if(w.length()==1){
+            return 1+w;
+        }
         String comp="";
         int count=1;
         char a=w.charAt(0);
@@ -31,10 +34,7 @@ class Solution {
             
             
         }
-        if(w.length()==1){
-            comp+=1;
-            comp+=w;
-        }
+        
         return comp;
     }
 }

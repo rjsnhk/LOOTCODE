@@ -1,4 +1,4 @@
-import java.util.HashSet;
+
 class Solution {
     public boolean checkIfExist(int[] arr) {
         HashSet<Integer> set = new HashSet<>();

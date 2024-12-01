@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rjsnhk/LOOTCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rjsnhk/LOOTCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rjsnhk/LOOTCODE/tree/master/1435-xor-queries-of-a-subarray) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rjsnhk/LOOTCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/rjsnhk/LOOTCODE/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rjsnhk/LOOTCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/rjsnhk/LOOTCODE/tree/master/1694-make-sum-divisible-by-p) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/rjsnhk/LOOTCODE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rjsnhk/LOOTCODE/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/rjsnhk/LOOTCODE/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rjsnhk/LOOTCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/rjsnhk/LOOTCODE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rjsnhk/LOOTCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/rjsnhk/LOOTCODE/tree/master/1694-make-sum-divisible-by-p) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/rjsnhk/LOOTCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0729-my-calendar-i](https://github.com/rjsnhk/LOOTCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0731-my-calendar-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rjsnhk/LOOTCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rjsnhk/LOOTCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rjsnhk/LOOTCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/rjsnhk/LOOTCODE/tree/master/2586-longest-square-streak-in-an-array) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/rjsnhk/LOOTCODE/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/rjsnhk/LOOTCODE/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/rjsnhk/LOOTCODE/tree/master/0567-permutation-in-string) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rjsnhk/LOOTCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1923-sentence-similarity-iii](https://github.com/rjsnhk/LOOTCODE/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/rjsnhk/LOOTCODE/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rjsnhk/LOOTCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/rjsnhk/LOOTCODE/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rjsnhk/LOOTCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/rjsnhk/LOOTCODE/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rjsnhk/LOOTCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2331-intersection-of-multiple-arrays](https://github.com/rjsnhk/LOOTCODE/tree/master/2331-intersection-of-multiple-arrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rjsnhk/LOOTCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rjsnhk/LOOTCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |

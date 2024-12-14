@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/rjsnhk/LOOTCODE/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/rjsnhk/LOOTCODE/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rjsnhk/LOOTCODE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/rjsnhk/LOOTCODE/tree/master/2868-continuous-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rjsnhk/LOOTCODE/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/rjsnhk/LOOTCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/rjsnhk/LOOTCODE/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rjsnhk/LOOTCODE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/rjsnhk/LOOTCODE/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/rjsnhk/LOOTCODE/tree/master/2868-continuous-subarrays) |
 ## Data Stream
 |  |
 | ------- |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/rjsnhk/LOOTCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0731-my-calendar-ii) |
+| [2868-continuous-subarrays](https://github.com/rjsnhk/LOOTCODE/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/rjsnhk/LOOTCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rjsnhk/LOOTCODE/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rjsnhk/LOOTCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2868-continuous-subarrays](https://github.com/rjsnhk/LOOTCODE/tree/master/2868-continuous-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rjsnhk/LOOTCODE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Monotonic Stack
@@ -472,10 +476,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rjsnhk/LOOTCODE/tree/master/0239-sliding-window-maximum) |
+| [2868-continuous-subarrays](https://github.com/rjsnhk/LOOTCODE/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rjsnhk/LOOTCODE/tree/master/0239-sliding-window-maximum) |
+| [2868-continuous-subarrays](https://github.com/rjsnhk/LOOTCODE/tree/master/2868-continuous-subarrays) |
 ## Backtracking
 |  |
 | ------- |

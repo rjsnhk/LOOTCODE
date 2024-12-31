@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/rjsnhk/LOOTCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/rjsnhk/LOOTCODE/tree/master/0787-sliding-puzzle) |
 | [1002-maximum-width-ramp](https://github.com/rjsnhk/LOOTCODE/tree/master/1002-maximum-width-ramp) |
+| [1025-minimum-cost-for-tickets](https://github.com/rjsnhk/LOOTCODE/tree/master/1025-minimum-cost-for-tickets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rjsnhk/LOOTCODE/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/rjsnhk/LOOTCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rjsnhk/LOOTCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/rjsnhk/LOOTCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/rjsnhk/LOOTCODE/tree/master/0392-is-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rjsnhk/LOOTCODE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1025-minimum-cost-for-tickets](https://github.com/rjsnhk/LOOTCODE/tree/master/1025-minimum-cost-for-tickets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rjsnhk/LOOTCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rjsnhk/LOOTCODE/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rjsnhk/LOOTCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |

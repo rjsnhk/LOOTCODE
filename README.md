@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rjsnhk/LOOTCODE/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rjsnhk/LOOTCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rjsnhk/LOOTCODE/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rjsnhk/LOOTCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/rjsnhk/LOOTCODE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/rjsnhk/LOOTCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/rjsnhk/LOOTCODE/tree/master/1923-sentence-similarity-iii) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rjsnhk/LOOTCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rjsnhk/LOOTCODE/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rjsnhk/LOOTCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rjsnhk/LOOTCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2164-two-best-non-overlapping-events](https://github.com/rjsnhk/LOOTCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/rjsnhk/LOOTCODE/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/rjsnhk/LOOTCODE/tree/master/2586-longest-square-streak-in-an-array) |

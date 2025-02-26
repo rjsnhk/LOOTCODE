@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/rjsnhk/LOOTCODE/tree/master/0204-count-primes) |
 | [0221-maximal-square](https://github.com/rjsnhk/LOOTCODE/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/rjsnhk/LOOTCODE/tree/master/0239-sliding-window-maximum) |
+| [0416-partition-equal-subset-sum](https://github.com/rjsnhk/LOOTCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/rjsnhk/LOOTCODE/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rjsnhk/LOOTCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rjsnhk/LOOTCODE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/rjsnhk/LOOTCODE/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rjsnhk/LOOTCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/rjsnhk/LOOTCODE/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/rjsnhk/LOOTCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rjsnhk/LOOTCODE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/rjsnhk/LOOTCODE/tree/master/1025-minimum-cost-for-tickets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rjsnhk/LOOTCODE/tree/master/1402-count-square-submatrices-with-all-ones) |

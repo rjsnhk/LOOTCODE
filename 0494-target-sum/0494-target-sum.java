@@ -20,7 +20,8 @@ class Solution {
     public int findTargetSumWays(int[] nums, int target) {
     int sum=0;
     for(int i:nums) sum+=i;
-    if((sum+target)%2!=0 || sum < Math.abs(target)) return 0;
+    //target negative bhi ho skta he so usko abs lena he
+    if((sum+target)%2!=0 || sum < Math.abs(target)) return 0; 
     int t=(sum+target)/2;
     return countTarget(nums,t,nums.length);
     }

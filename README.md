@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/rjsnhk/LOOTCODE/tree/master/0204-count-primes) |
 | [0221-maximal-square](https://github.com/rjsnhk/LOOTCODE/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/rjsnhk/LOOTCODE/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/rjsnhk/LOOTCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rjsnhk/LOOTCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rjsnhk/LOOTCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0518-coin-change-ii) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/rjsnhk/LOOTCODE/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/rjsnhk/LOOTCODE/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rjsnhk/LOOTCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/rjsnhk/LOOTCODE/tree/master/0787-sliding-puzzle) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rjsnhk/LOOTCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rjsnhk/LOOTCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/rjsnhk/LOOTCODE/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rjsnhk/LOOTCODE/tree/master/0241-different-ways-to-add-parentheses) |
+| [0322-coin-change](https://github.com/rjsnhk/LOOTCODE/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/rjsnhk/LOOTCODE/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/rjsnhk/LOOTCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rjsnhk/LOOTCODE/tree/master/0494-target-sum) |

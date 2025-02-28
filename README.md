@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/rjsnhk/LOOTCODE/tree/master/0239-sliding-window-maximum) |
 | [0416-partition-equal-subset-sum](https://github.com/rjsnhk/LOOTCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rjsnhk/LOOTCODE/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/rjsnhk/LOOTCODE/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rjsnhk/LOOTCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rjsnhk/LOOTCODE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rjsnhk/LOOTCODE/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/rjsnhk/LOOTCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rjsnhk/LOOTCODE/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0518-coin-change-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rjsnhk/LOOTCODE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rjsnhk/LOOTCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/rjsnhk/LOOTCODE/tree/master/1025-minimum-cost-for-tickets) |

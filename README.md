@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rjsnhk/LOOTCODE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0729-my-calendar-i](https://github.com/rjsnhk/LOOTCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0731-my-calendar-ii) |
+| [0740-delete-and-earn](https://github.com/rjsnhk/LOOTCODE/tree/master/0740-delete-and-earn) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rjsnhk/LOOTCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/rjsnhk/LOOTCODE/tree/master/0787-sliding-puzzle) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rjsnhk/LOOTCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/rjsnhk/LOOTCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rjsnhk/LOOTCODE/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rjsnhk/LOOTCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0740-delete-and-earn](https://github.com/rjsnhk/LOOTCODE/tree/master/0740-delete-and-earn) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rjsnhk/LOOTCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rjsnhk/LOOTCODE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rjsnhk/LOOTCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/rjsnhk/LOOTCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0518-coin-change-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rjsnhk/LOOTCODE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0740-delete-and-earn](https://github.com/rjsnhk/LOOTCODE/tree/master/0740-delete-and-earn) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rjsnhk/LOOTCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/rjsnhk/LOOTCODE/tree/master/1025-minimum-cost-for-tickets) |
 | [1170-shortest-common-supersequence](https://github.com/rjsnhk/LOOTCODE/tree/master/1170-shortest-common-supersequence) |

@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rjsnhk/LOOTCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rjsnhk/LOOTCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/rjsnhk/LOOTCODE/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/rjsnhk/LOOTCODE/tree/master/0242-valid-anagram) |
 | [0432-all-oone-data-structure](https://github.com/rjsnhk/LOOTCODE/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rjsnhk/LOOTCODE/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/rjsnhk/LOOTCODE/tree/master/0187-repeated-dna-sequences) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rjsnhk/LOOTCODE/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/rjsnhk/LOOTCODE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rjsnhk/LOOTCODE/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rjsnhk/LOOTCODE/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/rjsnhk/LOOTCODE/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/rjsnhk/LOOTCODE/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/rjsnhk/LOOTCODE/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/rjsnhk/LOOTCODE/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rjsnhk/LOOTCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/rjsnhk/LOOTCODE/tree/master/0242-valid-anagram) |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/rjsnhk/LOOTCODE/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/rjsnhk/LOOTCODE/tree/master/0214-shortest-palindrome) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rjsnhk/LOOTCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
@@ -610,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/rjsnhk/LOOTCODE/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/rjsnhk/LOOTCODE/tree/master/0214-shortest-palindrome) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rjsnhk/LOOTCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
@@ -642,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rjsnhk/LOOTCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/rjsnhk/LOOTCODE/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/rjsnhk/LOOTCODE/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rjsnhk/LOOTCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rjsnhk/LOOTCODE/tree/master/0567-permutation-in-string) |

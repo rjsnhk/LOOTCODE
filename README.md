@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rjsnhk/LOOTCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rjsnhk/LOOTCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rjsnhk/LOOTCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/rjsnhk/LOOTCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1694-make-sum-divisible-by-p](https://github.com/rjsnhk/LOOTCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rjsnhk/LOOTCODE/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rjsnhk/LOOTCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/rjsnhk/LOOTCODE/tree/master/0917-boats-to-save-people) |
 | [1256-rank-transform-of-an-array](https://github.com/rjsnhk/LOOTCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rjsnhk/LOOTCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/rjsnhk/LOOTCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2164-two-best-non-overlapping-events](https://github.com/rjsnhk/LOOTCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2331-intersection-of-multiple-arrays](https://github.com/rjsnhk/LOOTCODE/tree/master/2331-intersection-of-multiple-arrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rjsnhk/LOOTCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rjsnhk/LOOTCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rjsnhk/LOOTCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rjsnhk/LOOTCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/rjsnhk/LOOTCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rjsnhk/LOOTCODE/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rjsnhk/LOOTCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rjsnhk/LOOTCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |

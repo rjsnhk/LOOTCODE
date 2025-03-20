@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/rjsnhk/LOOTCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0731-my-calendar-ii) |
 | [0907-koko-eating-bananas](https://github.com/rjsnhk/LOOTCODE/tree/master/0907-koko-eating-bananas) |
+| [0923-super-egg-drop](https://github.com/rjsnhk/LOOTCODE/tree/master/0923-super-egg-drop) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rjsnhk/LOOTCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rjsnhk/LOOTCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/rjsnhk/LOOTCODE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0445-add-two-numbers-ii) |
 | [0539-minimum-time-difference](https://github.com/rjsnhk/LOOTCODE/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/rjsnhk/LOOTCODE/tree/master/0670-maximum-swap) |
+| [0923-super-egg-drop](https://github.com/rjsnhk/LOOTCODE/tree/master/0923-super-egg-drop) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rjsnhk/LOOTCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rjsnhk/LOOTCODE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2155-find-missing-observations](https://github.com/rjsnhk/LOOTCODE/tree/master/2155-find-missing-observations) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rjsnhk/LOOTCODE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0740-delete-and-earn](https://github.com/rjsnhk/LOOTCODE/tree/master/0740-delete-and-earn) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rjsnhk/LOOTCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0923-super-egg-drop](https://github.com/rjsnhk/LOOTCODE/tree/master/0923-super-egg-drop) |
 | [0954-maximum-sum-circular-subarray](https://github.com/rjsnhk/LOOTCODE/tree/master/0954-maximum-sum-circular-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/rjsnhk/LOOTCODE/tree/master/1025-minimum-cost-for-tickets) |
 | [1170-shortest-common-supersequence](https://github.com/rjsnhk/LOOTCODE/tree/master/1170-shortest-common-supersequence) |

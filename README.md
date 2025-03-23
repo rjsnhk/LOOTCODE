@@ -623,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rjsnhk/LOOTCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rjsnhk/LOOTCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/rjsnhk/LOOTCODE/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/rjsnhk/LOOTCODE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/rjsnhk/LOOTCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/rjsnhk/LOOTCODE/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/rjsnhk/LOOTCODE/tree/master/2586-longest-square-streak-in-an-array) |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/rjsnhk/LOOTCODE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/rjsnhk/LOOTCODE/tree/master/2201-valid-arrangement-of-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/rjsnhk/LOOTCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/rjsnhk/LOOTCODE/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/rjsnhk/LOOTCODE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/rjsnhk/LOOTCODE/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Eulerian Circuit
 |  |
@@ -754,5 +757,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/rjsnhk/LOOTCODE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/rjsnhk/LOOTCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->

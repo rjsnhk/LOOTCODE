@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/rjsnhk/LOOTCODE/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rjsnhk/LOOTCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/rjsnhk/LOOTCODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/rjsnhk/LOOTCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rjsnhk/LOOTCODE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rjsnhk/LOOTCODE/tree/master/3291-find-if-array-can-be-sorted) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/rjsnhk/LOOTCODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

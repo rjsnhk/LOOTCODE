@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/rjsnhk/LOOTCODE/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rjsnhk/LOOTCODE/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2155-find-missing-observations](https://github.com/rjsnhk/LOOTCODE/tree/master/2155-find-missing-observations) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rjsnhk/LOOTCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/rjsnhk/LOOTCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rjsnhk/LOOTCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/rjsnhk/LOOTCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rjsnhk/LOOTCODE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/rjsnhk/LOOTCODE/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2155-find-missing-observations](https://github.com/rjsnhk/LOOTCODE/tree/master/2155-find-missing-observations) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rjsnhk/LOOTCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/rjsnhk/LOOTCODE/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/rjsnhk/LOOTCODE/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rjsnhk/LOOTCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rjsnhk/LOOTCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/rjsnhk/LOOTCODE/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/rjsnhk/LOOTCODE/tree/master/2089-maximum-matrix-sum) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rjsnhk/LOOTCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/rjsnhk/LOOTCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/rjsnhk/LOOTCODE/tree/master/2411-spiral-matrix-iv) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/rjsnhk/LOOTCODE/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/rjsnhk/LOOTCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rjsnhk/LOOTCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/rjsnhk/LOOTCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rjsnhk/LOOTCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/rjsnhk/LOOTCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2331-intersection-of-multiple-arrays](https://github.com/rjsnhk/LOOTCODE/tree/master/2331-intersection-of-multiple-arrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rjsnhk/LOOTCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |

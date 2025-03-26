@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rjsnhk/LOOTCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/rjsnhk/LOOTCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rjsnhk/LOOTCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3817-maximum-containers-on-a-ship](https://github.com/rjsnhk/LOOTCODE/tree/master/3817-maximum-containers-on-a-ship) |
 ## Linked List
 |  |
 | ------- |

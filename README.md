@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/rjsnhk/LOOTCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rjsnhk/LOOTCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rjsnhk/LOOTCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/rjsnhk/LOOTCODE/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/rjsnhk/LOOTCODE/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0518-coin-change-ii) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/rjsnhk/LOOTCODE/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rjsnhk/LOOTCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0445-add-two-numbers-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/rjsnhk/LOOTCODE/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/rjsnhk/LOOTCODE/tree/master/0670-maximum-swap) |
 | [0923-super-egg-drop](https://github.com/rjsnhk/LOOTCODE/tree/master/0923-super-egg-drop) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/rjsnhk/LOOTCODE/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/rjsnhk/LOOTCODE/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/rjsnhk/LOOTCODE/tree/master/0295-find-median-from-data-stream) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/rjsnhk/LOOTCODE/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rjsnhk/LOOTCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rjsnhk/LOOTCODE/tree/master/0780-max-chunks-to-make-sorted) |

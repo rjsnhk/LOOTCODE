@@ -16,7 +16,7 @@ class Solution {
     }
 
     public int diameterOfBinaryTree(TreeNode root) {
-        res = 0;
+        res = Integer.MIN_VALUE;
         solve(root);
         return res - 1; // Diameter is edges (nodes - 1)
     }

@@ -32,10 +32,14 @@ class Solution {
             rightleftGC=rob(root.right.left);
             rightrightGC=rob(root.right.right);
         }
-
+        
+        //like isme khud aur apna 2 leftgrandchildre and 2 rightgrandchildren
         int include=root.val+leftleftGC+leftrightGC+rightleftGC+rightrightGC;
-        int exclude=rob(root.left)+rob(root.right);
 
+        //unke children ko add kro  
+        int exclude=rob(root.left)+rob(root.right);
+        
+        //abb dono me se koi ek bda usko lena he
         hm.put(root,Math.max(include,exclude));
         return hm.get(root);
     }

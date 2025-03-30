@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rjsnhk/LOOTCODE/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rjsnhk/LOOTCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0740-delete-and-earn](https://github.com/rjsnhk/LOOTCODE/tree/master/0740-delete-and-earn) |
+| [0768-partition-labels](https://github.com/rjsnhk/LOOTCODE/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rjsnhk/LOOTCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rjsnhk/LOOTCODE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rjsnhk/LOOTCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/rjsnhk/LOOTCODE/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/rjsnhk/LOOTCODE/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/rjsnhk/LOOTCODE/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/rjsnhk/LOOTCODE/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/rjsnhk/LOOTCODE/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rjsnhk/LOOTCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rjsnhk/LOOTCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/rjsnhk/LOOTCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/rjsnhk/LOOTCODE/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/rjsnhk/LOOTCODE/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/rjsnhk/LOOTCODE/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/rjsnhk/LOOTCODE/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rjsnhk/LOOTCODE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rjsnhk/LOOTCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/rjsnhk/LOOTCODE/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rjsnhk/LOOTCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/rjsnhk/LOOTCODE/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/rjsnhk/LOOTCODE/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rjsnhk/LOOTCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0917-boats-to-save-people](https://github.com/rjsnhk/LOOTCODE/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rjsnhk/LOOTCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |

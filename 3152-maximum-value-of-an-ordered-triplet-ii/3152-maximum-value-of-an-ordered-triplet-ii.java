@@ -14,7 +14,7 @@ suff_max[n-1]=nums[n-1];
        }
 
        for(int j=1;j<nums.length-1;j++){
-            ans=Math.max(ans,(long)((long)(pref_max[j-1]-nums[j])*suff_max[j+1]));
+            ans=Math.max(ans,((long)(pref_max[j-1]-nums[j])*suff_max[j+1]));
        }
        return ans;
     }

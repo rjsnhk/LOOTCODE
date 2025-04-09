@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rjsnhk/LOOTCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0740-delete-and-earn](https://github.com/rjsnhk/LOOTCODE/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/rjsnhk/LOOTCODE/tree/master/0768-partition-labels) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rjsnhk/LOOTCODE/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rjsnhk/LOOTCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rjsnhk/LOOTCODE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rjsnhk/LOOTCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/rjsnhk/LOOTCODE/tree/master/0337-house-robber-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rjsnhk/LOOTCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/rjsnhk/LOOTCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rjsnhk/LOOTCODE/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rjsnhk/LOOTCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rjsnhk/LOOTCODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rjsnhk/LOOTCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/rjsnhk/LOOTCODE/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rjsnhk/LOOTCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/rjsnhk/LOOTCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rjsnhk/LOOTCODE/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rjsnhk/LOOTCODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rjsnhk/LOOTCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rjsnhk/LOOTCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/rjsnhk/LOOTCODE/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rjsnhk/LOOTCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/rjsnhk/LOOTCODE/tree/master/0787-sliding-puzzle) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rjsnhk/LOOTCODE/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rjsnhk/LOOTCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rjsnhk/LOOTCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/rjsnhk/LOOTCODE/tree/master/1484-linked-list-in-binary-tree) |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/rjsnhk/LOOTCODE/tree/master/0337-house-robber-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rjsnhk/LOOTCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/rjsnhk/LOOTCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rjsnhk/LOOTCODE/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rjsnhk/LOOTCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rjsnhk/LOOTCODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rjsnhk/LOOTCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |

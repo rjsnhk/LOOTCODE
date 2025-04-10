@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rjsnhk/LOOTCODE/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/rjsnhk/LOOTCODE/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/rjsnhk/LOOTCODE/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/rjsnhk/LOOTCODE/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/rjsnhk/LOOTCODE/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/rjsnhk/LOOTCODE/tree/master/0392-is-subsequence) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rjsnhk/LOOTCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/rjsnhk/LOOTCODE/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/rjsnhk/LOOTCODE/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/rjsnhk/LOOTCODE/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/rjsnhk/LOOTCODE/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/rjsnhk/LOOTCODE/tree/master/0187-repeated-dna-sequences) |

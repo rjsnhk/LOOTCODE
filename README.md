@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rjsnhk/LOOTCODE/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/rjsnhk/LOOTCODE/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/rjsnhk/LOOTCODE/tree/master/0868-push-dominoes) |
 | [0917-boats-to-save-people](https://github.com/rjsnhk/LOOTCODE/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rjsnhk/LOOTCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rjsnhk/LOOTCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/rjsnhk/LOOTCODE/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/rjsnhk/LOOTCODE/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/rjsnhk/LOOTCODE/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rjsnhk/LOOTCODE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rjsnhk/LOOTCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1170-shortest-common-supersequence](https://github.com/rjsnhk/LOOTCODE/tree/master/1170-shortest-common-supersequence) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0518-coin-change-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rjsnhk/LOOTCODE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0740-delete-and-earn](https://github.com/rjsnhk/LOOTCODE/tree/master/0740-delete-and-earn) |
+| [0868-push-dominoes](https://github.com/rjsnhk/LOOTCODE/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rjsnhk/LOOTCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0923-super-egg-drop](https://github.com/rjsnhk/LOOTCODE/tree/master/0923-super-egg-drop) |
 | [0954-maximum-sum-circular-subarray](https://github.com/rjsnhk/LOOTCODE/tree/master/0954-maximum-sum-circular-subarray) |

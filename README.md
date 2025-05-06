@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/rjsnhk/LOOTCODE/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/rjsnhk/LOOTCODE/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rjsnhk/LOOTCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2048-build-array-from-permutation](https://github.com/rjsnhk/LOOTCODE/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/rjsnhk/LOOTCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/rjsnhk/LOOTCODE/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rjsnhk/LOOTCODE/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/rjsnhk/LOOTCODE/tree/master/0059-spiral-matrix-ii) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/rjsnhk/LOOTCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rjsnhk/LOOTCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2048-build-array-from-permutation](https://github.com/rjsnhk/LOOTCODE/tree/master/2048-build-array-from-permutation) |
 | [2155-find-missing-observations](https://github.com/rjsnhk/LOOTCODE/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/rjsnhk/LOOTCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rjsnhk/LOOTCODE/tree/master/2265-partition-array-according-to-given-pivot) |
